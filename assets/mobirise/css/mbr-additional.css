@@ -1393,7 +1393,6 @@ section.lazy-placeholder:after {
 .cid-uDPRttHXsC .google-map {
   height: 30rem;
   position: relative;
-  filter: grayscale(1);
 }
 .cid-uDPRttHXsC .google-map iframe {
   height: 100%;
